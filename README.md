@@ -81,27 +81,3 @@ Become a **Cloud / DevOps Engineer** with strong practical skills.
 </div>
 
 ---
-
-## 📊 GitHub Vibes
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivam-bhardwaj-cloud&show_icons=true&theme=radical&border_color=00f5ff&hide_title=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-bhardwaj-cloud&layout=compact&theme=radical&border_color=00f5ff" height="150" />
-</div>
-
-<!-- <div align="center">
-  <img src="https://streak-stats.demolab.com?user=shivam-bhardwaj-cloud&theme=radical&border=00F5FF&ring=00F5FF&fire=FF00FF" height="150" />
-</div> -->
-
----
-
-## 🧬 Mindset
-
-- No fake “expert mode”.  
-- Fixing real infra problems beats 100 hours of theory.  
-- If something breaks, good — I learn faster.
-
-> Cloud & DevOps is not a course. It’s a journey.  
-> And I’m grinding my way up — one config, one script, one bug at a time. ⚡
-
----
