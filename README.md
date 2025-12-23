@@ -85,12 +85,12 @@ Become a **Cloud / DevOps Engineer** with strong practical skills.
 ## 📊 GitHub Vibes
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CBUM-Bhardwaj&show_icons=true&theme=radical&border_color=00f5ff&hide_title=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CBUM-Bhardwaj&layout=compact&theme=radical&border_color=00f5ff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivam-bhardwaj-cloud&show_icons=true&theme=radical&border_color=00f5ff&hide_title=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-bhardwaj-cloud&layout=compact&theme=radical&border_color=00f5ff" height="150" />
 </div>
 
 <!-- <div align="center">
-  <img src="https://streak-stats.demolab.com?user=CBUM-Bhardwaj&theme=radical&border=00F5FF&ring=00F5FF&fire=FF00FF" height="150" />
+  <img src="https://streak-stats.demolab.com?user=shivam-bhardwaj-cloud&theme=radical&border=00F5FF&ring=00F5FF&fire=FF00FF" height="150" />
 </div> -->
 
 ---
