@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CBUM-Bhardwaj&style=for-the-badge&color=00f5ff" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=shivam-bhardwaj-cloud&style=for-the-badge&color=00f5ff" alt="profile views" />
   <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-India-ff0055?style=for-the-badge" />
 </p>
